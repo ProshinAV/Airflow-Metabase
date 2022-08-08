@@ -3,4 +3,4 @@ airflow/upload-data/*
 
 # Folders Airflow
 __pycache__
-airflow/upload-data/*
+airflow/logs/*
