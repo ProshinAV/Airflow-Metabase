@@ -4,3 +4,8 @@ airflow/upload-data/*
 # Folders Airflow
 __pycache__
 airflow/logs/*
+
+# Environments
+.venv
+airflow/.env
+venv/
