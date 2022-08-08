@@ -1,5 +1,6 @@
-# System
+# Folder for CSV files
 airflow/upload-data/*
 
-# PyCache
+# Folders Airflow
 __pycache__
+airflow/upload-data/*
