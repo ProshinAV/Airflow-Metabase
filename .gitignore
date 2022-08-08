@@ -1,0 +1,5 @@
+# System
+airflow/upload-data/*
+
+# PyCache
+__pycache__
